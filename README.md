@@ -40,6 +40,10 @@ npm install vite --save-dev
 ```bash
 npm run dev
 ```
+### 3. Navigate to this url
+
+[http://localhost:5173/login](http://localhost:5173/login)
+
 
 ## User Seed Data
 
